@@ -2,7 +2,7 @@
 Your personalized instant inspirational quote generation app 
 
 ### About ✌
-A fully responsive web application that randomly generates personalized inspirational quotes 
+A fully responsive web application that generates personalized inspirational quotes 
 
 ### Screenshot 🎞
 [<img src="static\img\quoteMusterSnip.JPG" width=300/>](static\img\quoteMusterSnip.JPG)
