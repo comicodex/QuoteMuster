@@ -1,5 +1,9 @@
 ## Welcome to QuoteMuster ✨
-Your personalized instant inspirational quote generation app 
+In the words of Criss Jami:
+> Old words are reborn with new faces
+
+### Introduction ☕
+Your personalized inspirational quote generator. Start your day with a hot cup of freshly brewed inspiration!
 
 ### About ✌
 A fully responsive web application that generates personalized inspirational quotes 
